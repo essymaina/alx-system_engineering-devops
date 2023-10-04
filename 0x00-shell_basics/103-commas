@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1a --group-directories-first | sed -e 's/$/,/' | tr -d '\n' && echo
+results=$(ls -1a --group-directories-first | sed -e 's/$/,/' | tr -d '\n'); printf "%s\n" "$result"
