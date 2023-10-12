@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 mumbi mumbi 4096 Oct 12 12:38 .
+drwxr-xr-x 6 mumbi mumbi 4096 Oct  9 09:59 ..
+-rwxr-xr-x 1 mumbi mumbi   32 Oct  9 10:13 0-hello_world
+-rwxr-xr-x 1 mumbi mumbi   28 Oct  9 10:38 1-confused_smiley
+-rwxr-xr-x 1 mumbi mumbi   28 Oct  9 10:46 2-hellofile
+-rwxr-xr-x 1 mumbi mumbi   39 Oct  9 10:51 3-twofiles
+-rwxr-xr-x 1 mumbi mumbi   35 Oct  9 10:57 4-lastlines
+-rwxr-xr-x 1 mumbi mumbi   35 Oct  9 11:00 5-firstlines
+-rwxr-xr-x 1 mumbi mumbi   36 Oct  9 11:39 6-third_line
+-rwxr-xr-x 1 mumbi mumbi   80 Oct  9 12:17 7-file
+-rwxr-xr-x 1 mumbi mumbi   36 Oct 12 12:37 8-cwd_state
+-rw-r--r-- 1 mumbi mumbi 2546 Oct  9 10:10 README.md
+-rw-r--r-- 1 mumbi mumbi  801 Oct  9 11:16 iacta
+-rw-r--r-- 1 mumbi mumbi    0 Oct 12 12:38 ls_cwd_content
